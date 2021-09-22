@@ -1,0 +1,2 @@
+# FGANomaly
+Implementation of FGANomaly
